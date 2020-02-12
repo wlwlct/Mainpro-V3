@@ -1,0 +1,1 @@
+The number you click on the time trace has P/M 1 sec error.
